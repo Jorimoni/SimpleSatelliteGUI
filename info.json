@@ -1,0 +1,11 @@
+{
+    "name": "SimpleSatelliteGUI",
+    "version": "1.0.0",
+    "title": "Simple Satellite GUI",
+    "author": "Jorimoni",
+    "factorio_version": "1.1",
+    "dependencies": [
+        "base >= 1.1"
+    ],
+    "description": "A simplified GUI to track satellites launched."
+}
